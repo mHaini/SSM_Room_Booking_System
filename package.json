@@ -1,24 +1,15 @@
 {
-  "name": "server",
+  "name": "ssm-room-booking-system",
   "version": "1.0.0",
+  "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-<<<<<<< HEAD
-    "bcryptjs": "^3.0.2",
+    "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
-    "express": "^5.1.0",
-    "jsonwebtoken": "^9.0.2"
-=======
-    "cors": "^2.8.5",
-    "express": "^5.1.0"
->>>>>>> 9e50dfd7815eed3f24ad8fc4f09902b5c0d73f1a
-  },
-  "description": ""
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0"
+  }
 }
