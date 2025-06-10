@@ -10,10 +10,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+<<<<<<< HEAD
     "bcryptjs": "^3.0.2",
     "cors": "^2.8.5",
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2"
+=======
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+>>>>>>> 9e50dfd7815eed3f24ad8fc4f09902b5c0d73f1a
   },
   "description": ""
 }
